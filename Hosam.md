@@ -2,7 +2,7 @@
 
 - Student at the Faculty of Computers and Information Science at Ain Shams University in second year.
 - Interested in Programming and Software Development.
-- Currently learning Cybersecurity , Web devolpment and Database.
+- Currently learning Web devolpment.
   <br>
 
 #### Connect with me 📫 :
